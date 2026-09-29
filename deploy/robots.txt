@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soltosoulco.com/sitemap.xml
